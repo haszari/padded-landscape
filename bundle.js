@@ -89,7 +89,7 @@
 
 
 	// module
-	exports.push([module.id, "body {\n\tbackground: darkgreen;\n\tcolor: lightgreen;\n}", ""]);
+	exports.push([module.id, "body {\n\tbackground: darkblue;\n\tcolor: orange;\n}", ""]);
 
 	// exports
 
