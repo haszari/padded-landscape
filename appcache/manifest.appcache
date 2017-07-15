@@ -1,18 +1,13 @@
 CACHE MANIFEST
-#ver:7/15/2017, 11:33:58 PM
+#ver:7/16/2017, 12:37:01 AM
 #plugin:4.8.3
 
 CACHE:
 /assets/img-303682.jpg
-/assets/img-7e025b.png
-/assets/img-280347.png
-/assets/img-3e884b.png
 ../favicon.ico
 ../bundle.js
-../styles2.css
 ../styles.css
 ../
-../tech/
 ../contact/
 
 NETWORK:
