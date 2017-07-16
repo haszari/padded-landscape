@@ -1,8 +1,16 @@
 CACHE MANIFEST
-#ver:7/16/2017, 12:46:56 AM
+#ver:7/16/2017, 7:39:59 PM
 #plugin:4.8.3
 
 CACHE:
+../manifest.json
+../apple-touch-icon.png
+/assets/img-fdbc0f.png
+../favicon-16x16.png
+/assets/img-4a1c57.png
+../favicon-32x32.png
+/assets/img-dc161b.png
+/assets/img-c7b51a.png
 ../bundle.js
 ../styles.css
 ../
