@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#ver:7/30/2017, 11:59:46 PM
+#ver:8/3/2017, 8:16:44 PM
 #plugin:4.8.3
 
 CACHE:
@@ -12,9 +12,14 @@ CACHE:
 /assets/img-dc161b.png
 /assets/img-c7b51a.png
 /assets/img-42b700.jpg
+/assets/img-2b3699.jpg
 ../bundle.js
 ../styles.css
 ../
+../music/
+../food/
+../map/
+../sponsors/
 ../contact/
 
 NETWORK:
