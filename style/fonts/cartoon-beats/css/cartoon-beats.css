@@ -1,11 +1,11 @@
 @font-face {
-  font-family: 'padded-landscape-icons';
-  src: url('../font/padded-landscape-icons.eot?63996211');
-  src: url('../font/padded-landscape-icons.eot?63996211#iefix') format('embedded-opentype'),
-       url('../font/padded-landscape-icons.woff2?63996211') format('woff2'),
-       url('../font/padded-landscape-icons.woff?63996211') format('woff'),
-       url('../font/padded-landscape-icons.ttf?63996211') format('truetype'),
-       url('../font/padded-landscape-icons.svg?63996211#padded-landscape-icons') format('svg');
+  font-family: 'cartoon-beats';
+  src: url('../font/cartoon-beats.eot?93572817');
+  src: url('../font/cartoon-beats.eot?93572817#iefix') format('embedded-opentype'),
+       url('../font/cartoon-beats.woff2?93572817') format('woff2'),
+       url('../font/cartoon-beats.woff?93572817') format('woff'),
+       url('../font/cartoon-beats.ttf?93572817') format('truetype'),
+       url('../font/cartoon-beats.svg?93572817#cartoon-beats') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,14 +14,14 @@
 /*
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
-    font-family: 'padded-landscape-icons';
-    src: url('../font/padded-landscape-icons.svg?63996211#padded-landscape-icons') format('svg');
+    font-family: 'cartoon-beats';
+    src: url('../font/cartoon-beats.svg?93572817#cartoon-beats') format('svg');
   }
 }
 */
  
  [class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: "padded-landscape-icons";
+  font-family: "cartoon-beats";
   font-style: normal;
   font-weight: normal;
   speak: none;
@@ -55,5 +55,12 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-hand-paper-o:before { content: '\f256'; } /* '' */
-.icon-hand-pointer-o:before { content: '\f25a'; } /* '' */
+.icon-info-circled:before { content: '\e800'; } /* '' */
+.icon-help-circled:before { content: '\e801'; } /* '' */
+.icon-play:before { content: '\e802'; } /* '' */
+.icon-haszari:before { content: '\e803'; } /* '' */
+.icon-record:before { content: '\e804'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-help:before { content: '\f128'; } /* '' */
+.icon-info:before { content: '\f129'; } /* '' */
+.icon-spotify:before { content: '\f1bc'; } /* '' */

@@ -1,43 +1,43 @@
 let snips = [
    // /// yeritoejy
-   // {
-   //    id: 'y_d_s',
-   //    snip: 'yeritoejy',
-   //    part: 'alpine',
-   //    instrument: 'beat',  
-   //    fileUrl: 'assets/yeritoejy/20170709-padscape-yeritoejy--drums-alpine.wav',
-   //    length: 4,
-   //    bpm: 125, 
-   // },
-   // {
-   //    id: 'y_b',
-   //    snip: 'yeritoejy',
-   //    part: 'ridge',
-   //    instrument: 'bass',  
-   //    fileUrl: 'assets/yeritoejy/20170709-padscape-yeritoejy--bass-ridge.wav',
-   //    bpm: 125, 
-   //    length: 32,
-   //    key: 'Am',
-   // },
-   // {
-   //    id: 'y_d_h',
-   //    snip: 'yeritoejy',
-   //    part: 'uplands',
-   //    instrument: 'perc',  
-   //    fileUrl: 'assets/yeritoejy/20170709-padscape-yeritoejy--perc-uplands.wav',
-   //    length: 8,
-   //    bpm: 125, 
-   // },
-   // {
-   //    id: 'y_l',
-   //    snip: 'yeritoejy',
-   //    part: 'hills',
-   //    instrument: 'synth',  
-   //    fileUrl: 'assets/yeritoejy/20170709-padscape-yeritoejy--blicks-hills.wav',
-   //    bpm: 125, 
-   //    length: 32,
-   //    key: 'Am',
-   // },
+   {
+      id: 'y_d_s',
+      snip: 'yeritoejy',
+      part: 'alpine',
+      instrument: 'beat',  
+      fileUrl: 'assets/yeritoejy/20170709-padscape-yeritoejy--drums-alpine.m4a',
+      length: 4,
+      bpm: 125, 
+   },
+   {
+      id: 'y_b',
+      snip: 'yeritoejy',
+      part: 'ridge',
+      instrument: 'bass',  
+      fileUrl: 'assets/yeritoejy/20170709-padscape-yeritoejy--bass-ridge.m4a',
+      bpm: 125, 
+      length: 32,
+      key: 'Am',
+   },
+   {
+      id: 'y_d_h',
+      snip: 'yeritoejy',
+      part: 'uplands',
+      instrument: 'perc',  
+      fileUrl: 'assets/yeritoejy/20170709-padscape-yeritoejy--perc-uplands.m4a',
+      length: 8,
+      bpm: 125, 
+   },
+   {
+      id: 'y_l',
+      snip: 'yeritoejy',
+      part: 'hills',
+      instrument: 'synth',  
+      fileUrl: 'assets/yeritoejy/20170709-padscape-yeritoejy--blicks-hills.m4a',
+      bpm: 125, 
+      length: 32,
+      key: 'Am',
+   },
 
    // /// tubasy
    // {
@@ -541,6 +541,44 @@ let snips = [
       bpm: 120, 
    },
 
+   /// mivova
+   {
+      id: 'mivova-beat',
+      snip: 'mivova',
+      part: 'alpine',
+      instrument: 'beat',  
+      fileUrl: 'assets/mivova/20180410--mivova--padscape-drums.mp3',
+      length: 64,
+      bpm: 122, 
+   },
+   {
+      id: 'mivova-sub',
+      snip: 'mivova',
+      part: 'ridge',
+      instrument: 'sub',  
+      fileUrl: 'assets/mivova/20180410--mivova--padscape-sub.mp3',
+      length: 64,
+      bpm: 122, 
+   },
+   {
+      id: 'mivova-lead',
+      snip: 'mivova',
+      part: 'uplands',
+      instrument: 'synth',  
+      fileUrl: 'assets/mivova/20180410--mivova--padscape-lead.mp3',
+      length: 64,
+      bpm: 122, 
+   },
+   {
+      id: 'mivova-voc',
+      snip: 'mivova',
+      part: 'hills',
+      instrument: 'voc',  
+      fileUrl: 'assets/mivova/20180410--mivova--padscape-voc.mp3',
+      length: 64,
+      bpm: 122, 
+   },
+
    // the first hit sample!
    {
       id: 'noyu-cymbal',
@@ -792,8 +830,9 @@ let keyInfo = {
    'noyu': 'Gm',
    'maenyb': 'Am',
    'manas': 'Am',
-
+   'mivova': 'Am',
    'yeritoejy': 'Am',
+
    'tubasy': 'F#m',
    'hivaofi': 'D',
    'erkuyf': 'F#m',
@@ -810,6 +849,8 @@ let staticSiteKeyInfo = {
    'noyu': 'Gm',
    'maenyb': 'Am',
    'manas': 'Am',
+   'mivova': 'Am',
+   'yeritoejy': 'Am',
 };
 
 
