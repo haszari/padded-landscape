@@ -23635,6 +23635,7 @@
 	}
 
 
+
 /***/ }),
 /* 211 */
 /***/ (function(module, exports) {
@@ -49961,7 +49962,7 @@
 	            _react2.default.createElement(
 	               'pattern',
 	               { id: 'img1', patternUnits: 'userSpaceOnUse', width: '10', height: '10' },
-	               _react2.default.createElement('image', { href: '/assets/transparent-textures/groovepaper.png', x: '0', y: '0', width: '10', height: '10' })
+	               _react2.default.createElement('image', { href: 'assets/transparent-textures/groovepaper.png', x: '0', y: '0', width: '10', height: '10' })
 	            ),
 	            _react2.default.createElement('polygon', {
 	               points: [0, 0, 0, 100, 100, 100, 100, 0, 0, 0], style: textureOverlayStyles
